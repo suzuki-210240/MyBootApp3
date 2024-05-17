@@ -1,4 +1,4 @@
 server: 
     port: 4444
     servlet:
-        context-path: /taro
+        context-path: /te
